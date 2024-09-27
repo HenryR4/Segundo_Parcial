@@ -4,10 +4,9 @@
  */
 package com.mycompany.bancoguatemalarestapi.controller;
 
-import gt.gob.banguat.variables.ws.TipoCambioSoap;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
-
+   import org.springframework.web.bind.annotation.RestController;
+   import gt.gob.banguat.variables.ws.TipoCambioSoap;
 /**
  *
  * @author hisco
